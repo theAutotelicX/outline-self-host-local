@@ -1,2 +1,5 @@
 # outline-self-host-local
-wsl2 version
+
+From: https://github.com/outline/outline
+
+After headache, it works with WSL2 now.
